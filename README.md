@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/telemark/tfk-seneca-mesh-minelev-trigger-external.svg?branch=master)](https://travis-ci.org/telemark/tfk-seneca-mesh-minelev-trigger-external)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 # tfk-seneca-mesh-minelev-trigger-external
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/tfk-seneca-mesh-minelev-trigger-external.svg)](https://greenkeeper.io/)
 Posts to external service on queue-add and queue-delete
 
 ## ENV
