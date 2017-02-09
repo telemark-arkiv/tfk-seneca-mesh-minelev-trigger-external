@@ -1,6 +1,6 @@
 {
   "name": "tfk-seneca-mesh-minelev-trigger-external",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Seneca trigger for MinElev externals",
   "license": "MIT",
   "private": true,
