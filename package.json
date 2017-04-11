@@ -1,6 +1,6 @@
 {
   "name": "tfk-seneca-mesh-minelev-trigger-external",
-  "version": "1.0.7",
+  "version": "1.0.10",
   "description": "Seneca trigger for MinElev externals",
   "license": "MIT",
   "private": true,
@@ -33,14 +33,14 @@
   "devDependencies": {
     "coveralls": "2.11.16",
     "nsp": "2.6.2",
-    "standard": "8.6.0",
+    "standard": "10.0.1",
     "tap": "10.3.2"
   },
   "dependencies": {
     "device": "0.3.8",
     "seneca": "3.3.0",
     "seneca-balance-client": "0.6.0",
-    "seneca-mesh": "0.9.0",
-    "wreck": "10.0.0"
+    "seneca-mesh": "0.10.0",
+    "wreck": "12.0.0"
   }
 }
