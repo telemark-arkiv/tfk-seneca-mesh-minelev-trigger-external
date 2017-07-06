@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "device": "0.3.8",
-    "seneca": "3.4.0",
+    "seneca": "3.4.1",
     "seneca-balance-client": "0.6.1",
     "seneca-mesh": "0.10.0",
     "wreck": "12.2.2"
